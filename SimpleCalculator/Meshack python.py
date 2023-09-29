@@ -1,4 +1,6 @@
 #meshack otieno ouma sct211-0765/2022
+#simple calculator program in python
+
 username=input("Enter your name:")
 print("Hello "+username)
 M1=input("Enter the first number:")
